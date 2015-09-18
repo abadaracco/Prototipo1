@@ -2,3 +2,9 @@
 bootstrap.json
 build/
 ext/
+.sencha
+.sencha_backup
+ext
+build/
+build.xml
+.idea
